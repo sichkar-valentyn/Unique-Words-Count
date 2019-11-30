@@ -44,6 +44,8 @@ As a result, program prints following (example):
 Also, *Bar Charts* are plotted as shown below.
 <br/>Pay attention! If there are a lot of *Unique words* they will not be visible on the plot.
 
+<br/>Final results, are written into the file *results.txt* next to the main Python file.
+
 ![Plotting results](https://github.com/sichkar-valentyn/Unique-Words-Count/plot.png)
 
 <br/>
