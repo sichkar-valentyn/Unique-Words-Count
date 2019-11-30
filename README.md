@@ -1,5 +1,7 @@
 # Unique Words Counter by Binary Search Tree
 Counting Unique Words in the given txt files by using Binary Search Tree
+<br/>[![DOI](https://zenodo.org/badge/225051905.svg)](https://zenodo.org/badge/latestdoi/225051905)
+
 
 ### Content
 * [Description](#description)
@@ -53,3 +55,5 @@ Also, *Bar Charts* are plotted as shown below.
 ### MIT License
 ### Copyright (c) 2019 Valentyn N Sichkar
 ### github.com/sichkar-valentyn
+### Reference to:
+Valentyn N Sichkar. Unique Words Counter by Binary Search Tree // GitHub platform. DOI: 10.5281/zenodo.3558757
