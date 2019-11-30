@@ -24,15 +24,11 @@ Collecting *Unique words* are implemented by *Binary Search Tree*, where also *f
 <br/>
 
 ### <a id="how-to-use">How to use</a>
-It is possible to run the file in *Terminal Window* or *Anaconda Prompt* and use argument *-p* specifying path to the directory where txt files will be read by program. Run follwing:
+* It is possible to run the file in *Terminal Window* or *Anaconda Prompt* and use argument *-p* specifying path to the directory where txt files will be read by program. By default program reads directory *tests* that is next to the main Python file. Run follwing: `python words_count_Python.py -p /home/my_name/Downloads/txt_files`
 
-`python words_count_Python.py -p /home/my_name/Downloads/txt_files`
+* One more way is to *import* program as *utility* for instance in *Jupyter notebook*.
 
-By default program reads directory *tests* that is next to the main Python file.
-
-One more way is to *import* program as *utility* for instance in *Jyputer notebook*.
-
-And of course, any Python IDE is as standard option.
+* And of course, any Python IDE is as standard option.
 
 <br/>
 
