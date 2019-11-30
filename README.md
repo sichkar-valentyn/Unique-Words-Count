@@ -1,4 +1,4 @@
-# Unique Words Count by Binary Search Tree
+# Unique Words Counter by Binary Search Tree
 Counting Unique Words in the given txt files by using Binary Search Tree
 
 ### Content
