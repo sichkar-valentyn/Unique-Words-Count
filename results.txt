@@ -2,7 +2,7 @@ Counted numbers for keys are shown below.
 words : 22
 unique words : 19
 lines : 4
-symbols : 105
+symbols : 111
 
 Found unique words and their frequencies are shown below.
 expression : 1
