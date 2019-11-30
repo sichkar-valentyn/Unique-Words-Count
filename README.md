@@ -46,7 +46,7 @@ Final results, are written into the file *results.txt* next to the main Python f
 Also, *Bar Charts* are plotted as shown below.
 <br/>Pay attention! If there are a lot of *Unique words* they will not be visible on the plot.
 
-![Plotting results](https://github.com/sichkar-valentyn/Unique-Words-Count/plot.png)
+![Plotting results](https://github.com/sichkar-valentyn/Unique-Words-Count/blob/master/plot.png)
 
 <br/>
 
