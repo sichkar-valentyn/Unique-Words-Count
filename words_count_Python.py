@@ -10,12 +10,15 @@ File: words-count-Python.py
 # Counting unique words in the given txt files
 #
 # Algorithm:
-# Setting up full path --> List of paths -->
-# --> Extracting 15% of paths to save into test.txt file -->
-# --> Writing paths into train and test txt files
+# Defining class for Binary Search Tree -->
+# --> Parsing argument with full path to the directory with txt fies -->
+# --> Reading txt files and counting needed features -->
+# --> Printing results -->
+# --> Plotting results -->
+# --> Saving results in txt and png files
 #
 # Result:
-# Files train.txt and test.txt with full paths to images
+# Files result.txt and plot.png with results
 
 
 # Importing needed libraries
@@ -24,7 +27,7 @@ import argparse
 import string
 
 
-# Defining class for nodes to se in Binary Search Tree
+# Defining class for nodes to use in Binary Search Tree
 class Node:
     def __init__(self, word, left=None, right=None):
         self.word = word
