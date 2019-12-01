@@ -168,7 +168,7 @@ def main():
         # r'\home\my_name\Downloads\tests'
         # or:
         # '\\home\\my_name\\Downloads\\tests'
-        full_path_to_tests = '/home/valentyn/PycharmProjects/tensorflow/Words_Count/tests/'
+        full_path_to_tests = 'tests'  # define you path here manually
 
     """
     End of:
